@@ -1,0 +1,13 @@
+###########################################################################
+						Map related Problems
+						
+		  https://www.geeksforgeeks.org/tag/java-hashmap/page/9/
+###########################################################################
+
+1.	Sort Map by Key A:: Natural Order B:: Reverse Order
+2.	Sort Map by Value A:: Natural Order B:: Reverse Order
+3.  First element that appears even number of times in an array
+4.	Implement HashMap
+5.  Find all distinct quadruplets in an array that sum up to a given value
+6.  Remove minimum number of elements such that no common element exist in both array
+7.  Print Postorder traversal from given Inorder and Preorder traversals
