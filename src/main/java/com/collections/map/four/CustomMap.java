@@ -1,4 +1,4 @@
-package com.collections.map;
+package com.collections.map.four;
 
 @SuppressWarnings("unchecked")
 public class CustomMap<T,R> {

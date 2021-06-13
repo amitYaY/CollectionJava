@@ -1,4 +1,4 @@
-package com.collections.map;
+package com.collections.map.one;
 
 import java.util.Comparator;
 import java.util.HashMap;
